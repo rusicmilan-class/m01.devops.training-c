@@ -1,4 +1,5 @@
 # DevOps Course M01: C Project
+# Changes
 
 This is a simple C project demonstrating basic CI/CD steps:
 
